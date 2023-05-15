@@ -1,0 +1,4 @@
+{
+  "name":"GBPUSD",
+  "trend":"BUY"
+}
